@@ -4,3 +4,4 @@
 test alpha 002
 hsassf
 exut
+exit
